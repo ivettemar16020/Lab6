@@ -1,0 +1,24 @@
+.product-list {
+  margin-left:2rem;  
+  margin: 0; 
+}
+
+.product {
+  display: flex;
+  font-family: "Courier New", "Lucida Console", monospace;
+  justify-content: space-around;
+ 
+}
+
+.itemBtn {
+   background-color: black;
+   border-radius: 50%;    
+   border: none;
+   color: white;
+   display: inline-block; 
+   margin: 1rem; 
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+}
+

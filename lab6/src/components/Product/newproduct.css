@@ -1,0 +1,28 @@
+.new-product {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 2rem; 
+}
+
+button {
+  cursor: pointer;
+}
+
+input {
+  margin-left: 1.5rem;  
+}
+
+.productBtn {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  display: block;
+  font-size: 16px;
+  margin-left: 1rem;
+  margin-top: 1rem; 
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  width:15%;
+}
